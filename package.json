@@ -1,6 +1,6 @@
 {
   "name": "@sashakatin/howtonpm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "npm tutorial",
   "main": "index.js",
   "scripts": {
