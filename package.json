@@ -1,0 +1,24 @@
+{
+  "name": "@sashakatin/howtonpm",
+  "version": "1.0.0",
+  "description": "npm tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sashakatin",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lessthanzero/howtonpm.git"
+  },
+  "keywords": [
+    "npm",
+    "package",
+    "module"
+  ],
+  "bugs": {
+    "url": "https://github.com/lessthanzero/howtonpm/issues"
+  },
+  "homepage": "https://github.com/lessthanzero/howtonpm#readme"
+}
